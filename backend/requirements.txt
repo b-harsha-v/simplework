@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+requests
+
+# AI / LangChain / LangGraph
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-groq
+
+# Data validation
+pydantic
+
+# Optional but useful
+httpx
