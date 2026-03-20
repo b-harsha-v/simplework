@@ -1,0 +1,35 @@
+# 🔹 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# 🔹 Virtual Environment
+venv/
+.env
+
+# 🔹 FastAPI logs
+*.log
+
+# 🔹 Node / React
+node_modules/
+dist/
+build/
+
+# 🔹 Vite
+frontend/node_modules/
+frontend/dist/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 VS Code
+.vscode/
+
+# 🔹 Env files
+.env.local
+.env.development
+.env.production
